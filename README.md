@@ -27,4 +27,22 @@ Prediction Model:
 Saving model: Saving the best model using pickle to make the prediction from real data.
 
 
+“Streamlit is a faster way to build and share data apps”.
+
+Streamlit is an open-source Python library and app framework which helps to create a custom frontend for Machine Learning and Data Science projects.
+
+We will create a simple web application for a loan default prediction ML model which will help users to predict whether the loan applicant is able to pay the loan back or not given user inputs.
+
+
+
+
+
+
+pip install streamlit
+
+
+streamlit hello
+ this line is use the Command Line type the line and then enter .
+streamlit run myfile.py  
+
 
